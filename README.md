@@ -1,109 +1,45 @@
-<!-- YEARLY CONTRIBUTIONS GRAPH (BANNER) -->
 <div align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/mdemrc?days=365&bgColour=0B1120&colour=22C55E&dotColour=22C55E&borderRadius=8"
-    alt="mdemrc's Contributions in the last year"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=M.%20Demirci&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=65&descAlign=50"
     width="100%"
   />
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=33E469&center=true&vCenter=true&width=600&lines=System+%26+Backend+Logic;C%23+%7C+JavaScript+%7C+C+%7C+SQL;Building+Practical+Tools" />
+  </a>
 </div>
 
 <br/>
 
-<!-- TYPING EFFECT SUBHEADER -->
+<br/>
+
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Algorithms+%7C+Systems+%7C+Automation;Building+practical+tools+and+utilities"
-    alt="Typing SVG"
-  />
+  <a href="https://github.com/mdemrc">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=2&section=header&text=&fontSize=0" width="90%" />
+</div>
+
+## ⚡ About Me
+
+Computer Engineering student focused on **backend logic, system automation, and practical tooling**. I don't just write code; I build utilities that solve real-world problems.
+
+* 🛠 **Core Stack:** `.NET (C#)`, `JavaScript`, `C`, `SQL`.
+* 🐧 **Environment:** Comfortable with **Linux**, Docker, Nginx, and VPS management.
+* 🚀 **Mindset:** Practical debugging, fast prototyping, and understanding "how things work".
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,c,php,dart,flutter&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,mssql,docker,linux,nginx,vscode&perline=8" />
 </div>
 
 <br/>
 
-<!-- NAME + TITLE -->
-<div align="center">
-
-  <h1 style="border-bottom:none; margin-bottom:0;">M. D.</h1>
-  <p style="margin-top:4px; font-size:14px;">
-    Computer Engineering Student
-  </p>
-
-  <p>
-    <a href="https://github.com/mdemrc" target="_blank">
-      <img src="https://cdn.simpleicons.org/github" height="24" />
-    </a>
-  </p>
-
-</div>
-
----
-
-## About
-
-Computer Engineering student with a **practical, tool-oriented approach** to software development.  
-Interested in **algorithms (C, C#, JS)**, system logic, data-processing utilities and multi-stack experimentation.  
-Comfortable with desktop apps, scripting, helper tools and server-side configuration (Linux, Docker, Nginx, aaPanel).  
-Learns by building real things, iterating fast and understanding how systems behave instead of sadece teori okumak.
-
----
-
-## Skills
-
-- Algorithmic thinking & implementation (C, C#, JavaScript)  
-- Logic structuring, data transformation, parsing & small pipelines  
-- Utility / tooling mindset (encoders, checkers, küçük otomasyonlar)  
-- Practical debugging & fast prototyping  
-- Multi-stack adaptability (desktop, web, basic mobile)  
-- System-level awareness (OS, servers, processes, deployments)
-
----
-
-## Tech Stack
-
-### Languages & Frameworks
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/csharp" height="30" />
-  <img src="https://cdn.simpleicons.org/dotnet" height="30" />
-  <img src="https://cdn.simpleicons.org/javascript" height="30" />
-  <img src="https://cdn.simpleicons.org/typescript" height="30" />
-  <img src="https://cdn.simpleicons.org/php" height="30" />
-  <img src="https://cdn.simpleicons.org/flutter" height="30" />
-  <img src="https://cdn.simpleicons.org/dart" height="30" />
-  <img src="https://cdn.simpleicons.org/c" height="30" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql" height="34" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="34" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="34" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="34" />
-</p>
-
----
-
-## Tools
-
-- Visual Studio & VS Code  
-- Linux shell & PowerShell  
-- Docker & containerized environments  
-- Nginx (reverse proxy, basit conf)  
-- aaPanel & VPS (Ubuntu) management  
-- Database tools (MySQL / MSSQL / PostgreSQL / MongoDB)  
-- Local scripting & utilities (C#, JS, C)
-
----
-
-## Stats
-
-<div align="center">
-
-  <!-- ONLY YEARLY COMMITS, NO PUBLIC REPO COUNTS -->
-  <img
-    src="https://github.pumbas.net/api/contributions/mdemrc?days=365&bgColour=0B1120&colour=22C55E&dotColour=22C55E&borderRadius=8"
-    alt="mdemrc's Contributions in the last year"
-    width="100%"
-  />
-
-</div>
