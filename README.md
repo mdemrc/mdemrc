@@ -1,9 +1,9 @@
-<!-- YEARLY PROFILE BANNER (CONTRIBUTION + SUMMARY) -->
+<!-- YEARLY CONTRIBUTIONS GRAPH (BANNER) -->
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdemrc&theme=github_dark"
+    src="https://github.pumbas.net/api/contributions/mdemrc?days=365&bgColour=0B1120&colour=22C55E&dotColour=22C55E&borderRadius=8"
+    alt="mdemrc's Contributions in the last year"
     width="100%"
-    alt="mdemrc profile summary"
   />
 </div>
 
@@ -12,18 +12,8 @@
 <!-- TYPING EFFECT SUBHEADER -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Algorithms+%7C+Systems+%7C+Automation;Building+practical+tools+and+utilities"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Algorithms+%7C+Systems+%7C+Automation;Building+practical+tools+and+utilities"
     alt="Typing SVG"
-  />
-</div>
-
-<br/>
-
-<!-- GRADIENT DIVIDER -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f2937&height=2&section=header&text=&fontSize=0"
-    width="100%"
   />
 </div>
 
@@ -39,19 +29,10 @@
 
   <p>
     <a href="https://github.com/mdemrc" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" />
+      <img src="https://cdn.simpleicons.org/github" height="24" />
     </a>
   </p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=1&section=header&text=&fontSize=0"
-    width="60%"
-  />
 </div>
 
 ---
@@ -60,28 +41,19 @@
 
 Computer Engineering student with a **practical, tool-oriented approach** to software development.  
 Interested in **algorithms (C, C#, JS)**, system logic, data-processing utilities and multi-stack experimentation.  
-Comfortable with desktop apps, scripting, small helper tools and server-side configuration work (Linux, Docker, Nginx, aaPanel).  
-Learns by building real things, iterating fast and understanding how systems behave rather than only reading theory.
+Comfortable with desktop apps, scripting, helper tools and server-side configuration (Linux, Docker, Nginx, aaPanel).  
+Learns by building real things, iterating fast and understanding how systems behave instead of sadece teori okumak.
 
 ---
 
 ## Skills
 
-- Algorithmic thinking and implementation (C, C#, JavaScript)  
+- Algorithmic thinking & implementation (C, C#, JavaScript)  
 - Logic structuring, data transformation, parsing & small pipelines  
-- Utility / tooling mindset: quick helpers, automation, encoders, scripts  
+- Utility / tooling mindset (encoders, checkers, küçük otomasyonlar)  
 - Practical debugging & fast prototyping  
 - Multi-stack adaptability (desktop, web, basic mobile)  
 - System-level awareness (OS, servers, processes, deployments)
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f2937&height=1&section=header&text=&fontSize=0"
-    width="50%"
-  />
-</div>
 
 ---
 
@@ -90,23 +62,23 @@ Learns by building real things, iterating fast and understanding how systems beh
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
+  <img src="https://cdn.simpleicons.org/csharp" height="30" />
+  <img src="https://cdn.simpleicons.org/dotnet" height="30" />
+  <img src="https://cdn.simpleicons.org/javascript" height="30" />
+  <img src="https://cdn.simpleicons.org/typescript" height="30" />
+  <img src="https://cdn.simpleicons.org/php" height="30" />
+  <img src="https://cdn.simpleicons.org/flutter" height="30" />
+  <img src="https://cdn.simpleicons.org/dart" height="30" />
+  <img src="https://cdn.simpleicons.org/c" height="30" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="36" />
+  <img src="https://cdn.simpleicons.org/mysql" height="34" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="34" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="34" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="34" />
 </p>
 
 ---
@@ -116,19 +88,10 @@ Learns by building real things, iterating fast and understanding how systems beh
 - Visual Studio & VS Code  
 - Linux shell & PowerShell  
 - Docker & containerized environments  
-- Nginx & basic reverse proxy setups  
+- Nginx (reverse proxy, basit conf)  
 - aaPanel & VPS (Ubuntu) management  
 - Database tools (MySQL / MSSQL / PostgreSQL / MongoDB)  
 - Local scripting & utilities (C#, JS, C)
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=1&section=header&text=&fontSize=0"
-    width="50%"
-  />
-</div>
 
 ---
 
@@ -136,34 +99,11 @@ Learns by building real things, iterating fast and understanding how systems beh
 
 <div align="center">
 
-  <!-- YEARLY STREAK / ACTIVITY STYLE CARD -->
+  <!-- ONLY YEARLY COMMITS, NO PUBLIC REPO COUNTS -->
   <img
-    src="https://streak-stats.demolab.com?user=mdemrc&theme=github-dark&hide_border=true"
-    height="150"
-    alt="mdemrc streak stats"
-  />
-
-  <br/><br/>
-
-  <!-- GENERAL STATS -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mdemrc&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-    height="150"
-    alt="mdemrc stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrc&layout=compact&theme=github_dark&hide_border=true"
-    height="150"
-    alt="mdemrc top languages"
-  />
-
-  <br/><br/>
-
-  <!-- ACTIVITY GRAPH (RECENT COMMITS AS EXTRA VISUAL) -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mdemrc&theme=github-dark&hide_border=true&area=true"
+    src="https://github.pumbas.net/api/contributions/mdemrc?days=365&bgColour=0B1120&colour=22C55E&dotColour=22C55E&borderRadius=8"
+    alt="mdemrc's Contributions in the last year"
     width="100%"
-    alt="mdemrc activity graph"
   />
 
 </div>
