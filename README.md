@@ -1,15 +1,35 @@
-<!-- INTERACTIVE COMMIT BANNER -->
+<!-- YEARLY PROFILE BANNER (CONTRIBUTION + SUMMARY) -->
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mdemrc&theme=github-dark&hide_border=true&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdemrc&theme=github_dark"
     width="100%"
-    alt="Activity graph"
+    alt="mdemrc profile summary"
   />
 </div>
 
-<br>
+<br/>
 
-<!-- HEADER -->
+<!-- TYPING EFFECT SUBHEADER -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Algorithms+%7C+Systems+%7C+Automation;Building+practical+tools+and+utilities"
+    alt="Typing SVG"
+  />
+</div>
+
+<br/>
+
+<!-- GRADIENT DIVIDER -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f2937&height=2&section=header&text=&fontSize=0"
+    width="100%"
+  />
+</div>
+
+<br/>
+
+<!-- NAME + TITLE -->
 <div align="center">
 
   <h1 style="border-bottom:none; margin-bottom:0;">M. D.</h1>
@@ -19,54 +39,74 @@
 
   <p>
     <a href="https://github.com/mdemrc" target="_blank">
-      <img src="https://cdn.simpleicons.org/github/181717/ffffff" height="22" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" />
     </a>
   </p>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=1&section=header&text=&fontSize=0"
+    width="60%"
+  />
 </div>
 
 ---
 
 ## About
 
-Computer Engineering student with a practical approach to development and problem solving.  
-Interested in algorithms (C, C#, JS), system logic, data-processing tools, and multi-stack experimentation.  
-Works comfortably with desktop applications, scripting, small utilities, and server-side configurations.  
-Focused on building, learning, and refining through hands-on experimentation rather than purely theoretical workflows.
+Computer Engineering student with a **practical, tool-oriented approach** to software development.  
+Interested in **algorithms (C, C#, JS)**, system logic, data-processing utilities and multi-stack experimentation.  
+Comfortable with desktop apps, scripting, small helper tools and server-side configuration work (Linux, Docker, Nginx, aaPanel).  
+Learns by building real things, iterating fast and understanding how systems behave rather than only reading theory.
 
 ---
 
 ## Skills
 
-- Algorithmic thinking (C, C#, JS)  
-- Problem solving through small utilities & automation  
-- Logic structuring, data transformation, parsing  
+- Algorithmic thinking and implementation (C, C#, JavaScript)  
+- Logic structuring, data transformation, parsing & small pipelines  
+- Utility / tooling mindset: quick helpers, automation, encoders, scripts  
 - Practical debugging & fast prototyping  
-- Multi-stack adaptability (desktop, web, mobile basics)  
-- System-level understanding (OS, servers, processes)
+- Multi-stack adaptability (desktop, web, basic mobile)  
+- System-level awareness (OS, servers, processes, deployments)
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f2937&height=1&section=header&text=&fontSize=0"
+    width="50%"
+  />
+</div>
 
 ---
 
 ## Tech Stack
 
 ### Languages & Frameworks
-<p>
-  <img src="https://cdn.simpleicons.org/csharp/512BD4/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E/000000" height="24" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/php/777BB4/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/c/00599C/ffffff" height="24" />
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
 </p>
 
 ### Databases
-<p>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927/ffffff" height="24" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248/ffffff" height="24" />
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="36" />
 </p>
 
 ---
@@ -75,12 +115,20 @@ Focused on building, learning, and refining through hands-on experimentation rat
 
 - Visual Studio & VS Code  
 - Linux shell & PowerShell  
-- Docker  
-- Nginx  
-- aaPanel  
-- VPS (Ubuntu) setup & environment configs  
-- DB tools (MySQL / MSSQL / PostgreSQL / MongoDB)  
-- Local scripting (C#, JS, C)
+- Docker & containerized environments  
+- Nginx & basic reverse proxy setups  
+- aaPanel & VPS (Ubuntu) management  
+- Database tools (MySQL / MSSQL / PostgreSQL / MongoDB)  
+- Local scripting & utilities (C#, JS, C)
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=1&section=header&text=&fontSize=0"
+    width="50%"
+  />
+</div>
 
 ---
 
@@ -88,22 +136,34 @@ Focused on building, learning, and refining through hands-on experimentation rat
 
 <div align="center">
 
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=mdemrc&theme=dark&hide_border=true" 
+  <!-- YEARLY STREAK / ACTIVITY STYLE CARD -->
+  <img
+    src="https://streak-stats.demolab.com?user=mdemrc&theme=github-dark&hide_border=true"
     height="150"
+    alt="mdemrc streak stats"
   />
 
-  <br><br>
+  <br/><br/>
 
-  <!-- Basic Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mdemrc&show_icons=true&count_private=true&hide=issues,prs,contribs&theme=transparent&rank_icon=github"
+  <!-- GENERAL STATS -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdemrc&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
     height="150"
+    alt="mdemrc stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrc&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrc&layout=compact&theme=github_dark&hide_border=true"
     height="150"
+    alt="mdemrc top languages"
+  />
+
+  <br/><br/>
+
+  <!-- ACTIVITY GRAPH (RECENT COMMITS AS EXTRA VISUAL) -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdemrc&theme=github-dark&hide_border=true&area=true"
+    width="100%"
+    alt="mdemrc activity graph"
   />
 
 </div>
