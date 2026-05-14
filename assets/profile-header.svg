@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="title desc">
   <title id="title">M. Demirci profile header</title>
   <desc id="desc">Banner with name and tagline</desc>
@@ -11,5 +12,5 @@
   <rect width="1200" height="260" fill="url(#hdr)"/>
   <path d="M0,188 C200,228 400,158 600,188 S1000,148 1200,178 L1200,260 L0,260 Z" fill="#0f172a" opacity="0.42"/>
   <text x="600" y="118" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,system-ui,sans-serif" font-size="52" font-weight="700">M. Demirci</text>
-  <text x="600" y="168" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI,system-ui,sans-serif" font-size="21" opacity="0.95">Computer Engineering · Full-Stack &amp; Mobile</text>
+  <text x="600" y="168" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI,system-ui,sans-serif" font-size="21" opacity="0.95">Computer Engineering&#160;&#183;&#160;Full-Stack &#38; Mobile</text>
 </svg>
