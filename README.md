@@ -1,13 +1,13 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=M.%20Demirci&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Full-Stack%20%26%20Mobile&descAlignY=65&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=M.%20Demirci&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Engineering%20%7C%20Full-Stack%20%26%20Mobile&amp;descAlignY=65&amp;descAlign=50"
     width="100%"
     alt="Profile header"
   />
   <br />
   <a href="https://git.io/typing-svg" aria-label="Animated tagline">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=33E469&center=true&vCenter=true&width=640&lines=Full-stack+product+engineering;Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+Prisma+%C2%B7+TypeScript;Kotlin+%C2%B7+Compose+%C2%B7+Python+automation"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;pause=1000&amp;color=33E469&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Full-stack+product+engineering;Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+Prisma+%C2%B7+TypeScript;Kotlin+%C2%B7+Compose+%C2%B7+Python+automation"
       alt="Typing tagline"
     />
   </a>
@@ -17,18 +17,24 @@
 
 <div align="center">
   <a href="https://github.com/mdemrc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/mdemrc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://mdemrc.github.io">
-    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Personal website" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=2&section=header&text=&fontSize=0" width="90%" alt="" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1e293b,100:0f172a&amp;height=2&amp;section=header&amp;text=&amp;fontSize=0"
+    width="90%"
+    alt=""
+  />
 </div>
 
 ## Overview
@@ -48,13 +54,13 @@ M. Demirci is a computer engineering student who ships complete software product
 | Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&perline=9" alt="Primary skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&amp;perline=9" alt="Primary skills" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=php,cs,dotnet,c,dart,flutter,html,css&perline=8" alt="Additional languages" />
+  <img src="https://skillicons.dev/icons?i=php,cs,dotnet,c,dart,flutter,html,css&amp;perline=8" alt="Additional languages" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,mssql,redis,docker,linux,nginx&perline=8" alt="Data and ops" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,mssql,redis,docker,linux,nginx&amp;perline=8" alt="Data and ops" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,vite,selenium,figma&perline=8" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,vite,selenium,figma&amp;perline=8" alt="Tooling" />
 </div>
 
 ---
@@ -73,7 +79,6 @@ Public repositories in this space demonstrate end-to-end ownership: schema desig
 | [**Review-Management-System**](https://github.com/mdemrc/Review-Management-System) | Vouch-code authenticated testimonials, Prisma migration narrative |
 | [**Anonymous-Pastebin-Clone**](https://github.com/mdemrc/Anonymous-Pastebin-Clone) | PHP 8 + MySQL paste service with visibility tiers, accounts, analytics |
 | [**Automated-Appointment-Tester**](https://github.com/mdemrc/Automated-Appointment-Tester) | Browser automation harness with OTP relay components for soak testing |
-
 
 ## Mobile engineering
 
@@ -96,5 +101,3 @@ Additional mobile-related experiments and course deliverables may appear under o
 | [**operating-systems-labs**](https://github.com/mdemrc/operating-systems-labs) | Operating systems course: C exercises and explanations |
 | [**advanced-programming**](https://github.com/mdemrc/advanced-programming) | Advanced programming coursework and .NET / desktop lab artifacts |
 | [**CopilotAutoApprove**](https://github.com/mdemrc/CopilotAutoApprove) | Small VS Code extension that streamlines repetitive Copilot confirmations |
-
-
