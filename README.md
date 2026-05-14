@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=M.%20Demirci&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Engineering%20%7C%20Full-Stack%20%26%20Mobile&amp;descAlignY=65&amp;descAlign=50"
+    src="https://raw.githubusercontent.com/mdemrc/mdemrc/main/assets/profile-header.svg"
     width="100%"
     alt="Profile header"
   />
@@ -30,16 +30,12 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1e293b,100:0f172a&amp;height=2&amp;section=header&amp;text=&amp;fontSize=0"
-    width="90%"
-    alt=""
-  />
+  <img src="https://raw.githubusercontent.com/mdemrc/mdemrc/main/assets/section-divider.svg" width="90%" height="4" alt="" />
 </div>
 
 ## Overview
 
-M. Demirci is a computer engineering student who ships complete software products rather than isolated exercises. The work here spans multi-role SaaS platforms, editorial and AI-assisted content pipelines, moderated marketplaces, classic LAMP stacks, and native Android experiences. Design decisions are driven by real operational constraints: authentication, auditability, payments, migrations, and long-term maintainability.
+M. Demirci is a computer engineering student who ships complete software products rather than isolated exercises. The work here spans multi-role SaaS platforms, editorial and AI-assisted content pipelines, moderated marketplaces, classic LAMP stacks, native Android experiences, and archived WinForms coursework. Design decisions are driven by real operational constraints: authentication, auditability, payments, migrations, and long-term maintainability.
 
 ---
 
@@ -93,6 +89,25 @@ Additional mobile-related experiments and course deliverables may appear under o
 ---
 
 ## Tooling, coursework & reference material
+
+Course snapshots include utilities, illustrated labs, and WinForms coursework wired to local SQL Server where noted.
+
+### Desktop (.NET / WinForms coursework)
+
+| Project | Focus |
+|--------|--------|
+| [**ChatGBT-Desktop**](https://github.com/mdemrc/ChatGBT-Desktop) | WinForms ChatGPT-style desktop client (API key configuration; coursework UI patterns) |
+| [**Kolay_Ezber_V2**](https://github.com/mdemrc/Kolay_Ezber_V2) | Flashcard study app with spaced repetition style flows |
+| [**KolayEzber-Beta**](https://github.com/mdemrc/KolayEzber-Beta) | Earlier KolayEzber iteration and UI experiments |
+| [**Entitiy-Framework-Urun-Yonetim-Uygulamasi**](https://github.com/mdemrc/Entitiy-Framework-Urun-Yonetim-Uygulamasi) | Admin vs customer storefront modelling with Entity Framework |
+| [**Film-Favorileme-ve-Izleme-Uygulamasi**](https://github.com/mdemrc/Film-Favorileme-ve-Izleme-Uygulamasi) | Personal movie favourites and watch-state tracking |
+| [**Doviz-Burosu-Uygulamasi**](https://github.com/mdemrc/Doviz-Burosu-Uygulamasi) | Bureau-style currency desk workflows |
+| [**Sinav-Surec-Takip-Uygulamasi**](https://github.com/mdemrc/Sinav-Surec-Takip-Uygulamasi) | Exam lifecycle planner / checklist style tracker |
+| [**Ilce-Secim-Sonucu-Istatistik-Verileri**](https://github.com/mdemrc/Ilce-Secim-Sonucu-Istatistik-Verileri) | District-level election statistics exploration UI |
+| [**Kisa-Plan-Uygulamasi**](https://github.com/mdemrc/Kisa-Plan-Uygulamasi) | Short-range agenda / mini planner desktop utility |
+| [**Sureli-Tus-Tekrar-Uygulamasi**](https://github.com/mdemrc/Sureli-Tus-Tekrar-Uygulamasi) | Timed key-repeat drill utility |
+
+### Guides, labs & utilities
 
 | Project | Role |
 |--------|------|
