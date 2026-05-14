@@ -1,13 +1,13 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/mdemrc/mdemrc/main/assets/profile-header.svg"
+    src="assets/profile-header.svg"
     width="100%"
     alt="Profile header"
   />
   <br />
   <a href="https://git.io/typing-svg" aria-label="Animated tagline">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;pause=1000&amp;color=33E469&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Full-stack+product+engineering;Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+Prisma+%C2%B7+TypeScript;Kotlin+%C2%B7+Compose+%C2%B7+Python+automation"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=33E469&center=true&vCenter=true&width=640&lines=Full-stack+product+engineering;Next.js+%C2%B7+React+%C2%B7+Node+%C2%B7+Prisma+%C2%B7+TypeScript;Kotlin+%C2%B7+Compose+%C2%B7+Python+automation"
       alt="Typing tagline"
     />
   </a>
@@ -17,20 +17,20 @@
 
 <div align="center">
   <a href="https://github.com/mdemrc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/mdemrc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://mdemrc.github.io">
-    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Personal website" />
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mdemrc/mdemrc/main/assets/section-divider.svg" width="90%" height="4" alt="" />
+  <img src="assets/section-divider.svg" width="90%" height="4" alt="" />
 </div>
 
 ## Overview
@@ -43,24 +43,24 @@ M. Demirci is a computer engineering student who ships complete software product
 
 | Area | Technologies |
 |------|----------------|
-| Web application | Next.js, React, TypeScript, Tailwind, Vite, Radix UI, NextAuth / Auth.js patterns, React Hook Form, Zod, Jest & Testing Library (where present) |
-| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL, MSSQL, JWT, bcrypt, REST clients (e.g. Axios), Helmet, rate limiting, node-cron, Multer, Nodemailer, pdf-lib |
-| Automation & scripting | Python, Selenium, Flask, OpenAI SDK, RSS & HTML parsing (rss-parser, Cheerio), TypeScript automation / bot-style tooling |
-| Systems & hosting | Linux, Docker, nginx, VPS operations, GitHub Pages / static site delivery |
-| Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt, Gradle (Kotlin DSL), MVVM |
-| Desktop & .NET coursework | C#, .NET Framework, WinForms, Entity Framework, Visual Studio ecosystem, SQL Server–bound desktop apps |
-| Classic web & PHP stacks | PHP 8, MySQL, LAMP-style coursework, HTML/CSS front ends |
-| Tooling & editor extensions | VS Code Extension API (TypeScript), ESLint, Prisma CLI / migrate workflows |
-| CS foundations | C (operating-systems labs), Markdown documentation |
+| Web application | Next.js, React, TypeScript, Tailwind, Vite, Radix UI, NextAuth / Auth.js, React Hook Form, Zod, Jest |
+| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL, MSSQL, JWT, bcrypt, Axios, Helmet, node-cron, Multer |
+| Automation & scripting | Python, Selenium, Flask, OpenAI SDK, rss-parser, Cheerio, TypeScript automation |
+| Systems & hosting | Linux, Docker, nginx, VPS operations, GitHub Pages |
+| Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt, MVVM |
+| Desktop & .NET | C#, .NET Framework, WinForms, Entity Framework, SQL Server |
+| Classic web | PHP 8, MySQL, LAMP stack, HTML/CSS |
+| Tooling | VS Code Extension API, ESLint, Prisma CLI, Git, Figma |
+| CS foundations | C (Operating Systems labs), Markdown documentation |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&amp;perline=9" alt="Primary skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&perline=9" alt="Primary skills" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=php,cs,dotnet,c,dart,flutter,html,css&amp;perline=8" alt="Additional languages" />
+  <img src="https://skillicons.dev/icons?i=php,cs,dotnet,c,dart,flutter,html,css&perline=8" alt="Additional languages" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,mssql,redis,docker,linux,nginx&amp;perline=8" alt="Data and ops" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,mssql,redis,docker,linux,nginx&perline=8" alt="Data and ops" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,vite,selenium,figma&amp;perline=8" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,vite,selenium,figma&perline=8" alt="Tooling" />
 </div>
 
 ---
@@ -88,19 +88,15 @@ Native Android work emphasises architecture that survives beyond a single screen
 |--------|--------|
 | [**siedlce-erasmus-guide**](https://github.com/mdemrc/siedlce-erasmus-guide) | Kotlin, Jetpack Compose, MVVM, Hilt, Room, Google Maps for an Erasmus city guide |
 
-Additional mobile-related experiments and course deliverables may appear under other repositories; the table above highlights the primary public mobile product.
-
 ---
 
 ## Tooling, coursework & reference material
-
-Course snapshots include utilities, illustrated labs, and WinForms coursework wired to local SQL Server where noted.
 
 ### Desktop (.NET / WinForms coursework)
 
 | Project | Focus |
 |--------|--------|
-| [**ChatGBT-Desktop**](https://github.com/mdemrc/ChatGBT-Desktop) | WinForms ChatGPT-style desktop client (API key configuration; coursework UI patterns) |
+| [**ChatGBT-Desktop**](https://github.com/mdemrc/ChatGBT-Desktop) | WinForms ChatGPT-style desktop client |
 | [**Kolay_Ezber_V2**](https://github.com/mdemrc/Kolay_Ezber_V2) | Flashcard study app with spaced repetition style flows |
 | [**KolayEzber-Beta**](https://github.com/mdemrc/KolayEzber-Beta) | Earlier KolayEzber iteration and UI experiments |
 | [**Entitiy-Framework-Urun-Yonetim-Uygulamasi**](https://github.com/mdemrc/Entitiy-Framework-Urun-Yonetim-Uygulamasi) | Admin vs customer storefront modelling with Entity Framework |
