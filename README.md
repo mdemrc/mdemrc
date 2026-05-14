@@ -43,11 +43,15 @@ M. Demirci is a computer engineering student who ships complete software product
 
 | Area | Technologies |
 |------|----------------|
-| Web application | Next.js, React, TypeScript, Tailwind, Vite |
-| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL, MSSQL |
-| Automation & scripting | Python, Selenium, Flask |
-| Systems & hosting | Linux, Docker, nginx, VPS operations |
-| Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt |
+| Web application | Next.js, React, TypeScript, Tailwind, Vite, Radix UI, NextAuth / Auth.js patterns, React Hook Form, Zod, Jest & Testing Library (where present) |
+| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL, MSSQL, JWT, bcrypt, REST clients (e.g. Axios), Helmet, rate limiting, node-cron, Multer, Nodemailer, pdf-lib |
+| Automation & scripting | Python, Selenium, Flask, OpenAI SDK, RSS & HTML parsing (rss-parser, Cheerio), TypeScript automation / bot-style tooling |
+| Systems & hosting | Linux, Docker, nginx, VPS operations, GitHub Pages / static site delivery |
+| Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt, Gradle (Kotlin DSL), MVVM |
+| Desktop & .NET coursework | C#, .NET Framework, WinForms, Entity Framework, Visual Studio ecosystem, SQL Server–bound desktop apps |
+| Classic web & PHP stacks | PHP 8, MySQL, LAMP-style coursework, HTML/CSS front ends |
+| Tooling & editor extensions | VS Code Extension API (TypeScript), ESLint, Prisma CLI / migrate workflows |
+| CS foundations | C (operating-systems labs), Markdown documentation |
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&amp;perline=9" alt="Primary skills" />
