@@ -42,10 +42,10 @@ M. Demirci is a computer engineering student who ships complete software product
 | Area | Technologies |
 |------|----------------|
 | Web application | Next.js, React, TypeScript, Tailwind, Vite |
-| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL |
+| APIs & data | Node.js, Express, Prisma, Mongoose, MySQL, MongoDB, PostgreSQL, MSSQL |
 | Automation & scripting | Python, Selenium, Flask |
 | Systems & hosting | Linux, Docker, nginx, VPS operations |
-| Mobile | Kotlin, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt |
+| Mobile | Kotlin, React Native, Jetpack Compose, Material 3, Google Maps SDK, Room, Hilt |
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,prisma,python,kotlin&perline=9" alt="Primary skills" />
@@ -73,7 +73,6 @@ Public repositories in this space demonstrate end-to-end ownership: schema desig
 | [**Review-Management-System**](https://github.com/mdemrc/Review-Management-System) | Vouch-code authenticated testimonials, Prisma migration narrative |
 | [**Anonymous-Pastebin-Clone**](https://github.com/mdemrc/Anonymous-Pastebin-Clone) | PHP 8 + MySQL paste service with visibility tiers, accounts, analytics |
 | [**Link-Management-Platform**](https://github.com/mdemrc/Link-Management-Platform) | Earlier MongoDB and Express directory; predecessor patterns to LinkHub |
-| [**Exchange_App**](https://github.com/mdemrc/Exchange_App) | Non-custodial exchange front end, internationalisation, modern Next.js |
 | [**Automated-Appointment-Tester**](https://github.com/mdemrc/Automated-Appointment-Tester) | Browser automation harness with OTP relay components for soak testing |
 
 
