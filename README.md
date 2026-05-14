@@ -72,7 +72,6 @@ Public repositories in this space demonstrate end-to-end ownership: schema desig
 | [**Link-Management-Platform**](https://github.com/mdemrc/Link-Management-Platform) | Earlier MongoDB / Express directory architecture; foundation for later iterations |
 | [**Review-Management-System**](https://github.com/mdemrc/Review-Management-System) | Vouch-code authenticated testimonials, Prisma migration narrative |
 | [**Anonymous-Pastebin-Clone**](https://github.com/mdemrc/Anonymous-Pastebin-Clone) | PHP 8 + MySQL paste service with visibility tiers, accounts, analytics |
-| [**Link-Management-Platform**](https://github.com/mdemrc/Link-Management-Platform) | Earlier MongoDB and Express directory; predecessor patterns to LinkHub |
 | [**Automated-Appointment-Tester**](https://github.com/mdemrc/Automated-Appointment-Tester) | Browser automation harness with OTP relay components for soak testing |
 
 
